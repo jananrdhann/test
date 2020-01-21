@@ -1,5 +1,5 @@
 added first line
 
-second line added
+second line removed
 
-third line
+third line added
